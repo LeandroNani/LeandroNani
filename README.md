@@ -1,11 +1,80 @@
 ### Hi there 👋
 I'm a Software Engineering Student at PUC Minas and currently an iOS Development Intern at DTI Digital.
 
-<div>
-<a href="https://github.com/LeandroNani">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNani&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroNani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+📊 GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeandroNani&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNani&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNani&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/LeandroNani" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: SINCE MAR 13 2025 <a href="https://wakatime.com/@LeandroNani">WakaTime</a></td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/LeandroNani/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeandroNani&theme=dark&layout=compact"/>
+</td>
+</tr>
+<tr>
+ <td align="center"></td>
+ <td align="center"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeandroNani&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeandroNani&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeandroNani&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeandroNani&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeandroNani&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=LeandroNani&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
 </div>
+</div>
+
+-----
 
   
 ## Technologies 👨‍💻
@@ -29,4 +98,34 @@ I'm a Software Engineering Student at PUC Minas and currently an iOS Development
 <a href = "mailto:leandropacheco02@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leandropacheco02" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+-----
+
+<div>
+<details>
+<summary>🎵 Leandro´s Spotify Data 🎵</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=leandro1715" alt="Data Card for Spotify">
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="300px" height="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=leandro1715&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="300px" height="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=leandro1715"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+-----
 
