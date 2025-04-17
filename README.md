@@ -25,24 +25,6 @@ I'm a Software Engineering Student at PUC Minas and currently an iOS Development
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/LeandroNani" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: SINCE MAR 13 2025 <a href="https://wakatime.com/@LeandroNani">WakaTime</a></td>
-</tr>
-<tr>
-<td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/LeandroNani/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>
-<td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeandroNani&theme=dark&layout=compact"/>
-</td>
-</tr>
-<tr>
- <td align="center"></td>
- <td align="center"></td>
-</tr> 
-</table>
-<table>
-<tr>
  <td align="center" colspan="3"></td>
 </tr> 
 <tr>
@@ -102,10 +84,7 @@ I'm a Software Engineering Student at PUC Minas and currently an iOS Development
 -----
 
 <div>
-<details>
 <summary>🎵 Leandro´s Spotify Data 🎵</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=leandro1715" alt="Data Card for Spotify">
-</details>
 </div>
 
 <div align="center">
