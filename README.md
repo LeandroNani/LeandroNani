@@ -81,30 +81,6 @@ I'm a Software Engineering Student at PUC Minas and currently an iOS Development
 <a href="https://www.linkedin.com/in/leandropacheco02" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
------
-
-<div>
-<summary>🎵 Leandro´s Spotify Data 🎵</summary>
-</div>
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<img alt="Spotify" width="300px" height="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=leandro1715&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</td>
-<td>
-<img alt="Spotify list" width="300px" height="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=leandro1715"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
 
 -----
 
